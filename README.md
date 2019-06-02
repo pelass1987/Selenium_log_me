@@ -1,2 +1,3 @@
-# Selenium_log_me
-Logowanie do konta użytkownika mediaexpert.pl za pomocą selenium webdriver
+# Test Selenium 
+
+Logging to user account on mediaexpert.pl website using Selenium Webdriver
